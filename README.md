@@ -2,7 +2,7 @@
 
 **CVPR 2025**
 
-[Yaxu Xie](about:blank)\* · [Abdalla Arafa](about:blank)\* · [Alireza Javanmardi](about:blank) · [Christen Millerdurai](about:blank) · [Jia Cheng Hu](about:blank) · [Shaoxiang Wang](about:blank) · [Alain Pagani](about:blank) · [Didier Stricker](about:blank)
+[Yaxu Xie](https://scholar.google.com/citations?user=3ZKuh9EAAAAJ&hl=en)\* · [Abdalla Arafa](https://abdallaarafa.github.io/)\* · [Alireza Javanmardi](https://scholar.google.com/citations?user=SR_4n3kAAAAJ&hl=en) · [Christen Millerdurai](https://chris10m.github.io/) · [Jia Cheng Hu](https://scholar.google.com/citations?user=KxUF6BUAAAAJ&hl=it) · [Shaoxiang Wang](https://shaoxiang777.github.io/) · [Alain Pagani](https://www.dfki.de/en/web/about-us/employee/person/alpa02) · [Didier Stricker](https://www.dfki.de/en/web/about-us/employee/person/dist01)
 
 <sup>\*Equal contribution</sup>
 
