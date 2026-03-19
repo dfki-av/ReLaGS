@@ -8,7 +8,7 @@
 
 **¹ German Research Center for Artificial Intelligence (DFKI) · ² RPTU University Kaiserslautern-Landau · ³ University of Modena and Reggio Emilia**
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](about:blank)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/pdf/2603.17605)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://dfki-av.github.io/ReLaGS/)
 
 ---
