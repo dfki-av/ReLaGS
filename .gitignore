@@ -1,0 +1,16 @@
+*.pyc
+.vscode
+output
+build
+*.ply
+**/PKG-INFO
+# submodules
+**__pycache__**
+*.png
+*.out
+eval
+*.npz
+**/tmp
+models
+ckpts
+masks

@@ -1,0 +1,6 @@
+[submodule "wth-element"]
+	path = wth-element
+	url = https://gitlab.com/1a7r0ch3/wth-element
+[submodule "pcd-prox-split"]
+	path = pcd-prox-split
+	url = https://gitlab.com/1a7r0ch3/pcd-prox-split

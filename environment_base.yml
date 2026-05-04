@@ -1,0 +1,17 @@
+name: ReLaGS
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - plyfile=0.8.1
+  - python=3.10.13
+  - pip
+  - pytorch==2.2.0
+  - torchvision==0.17.0
+  - torchaudio==2.2.0
+  - pytorch-cuda=11.8
+  - tqdm
+  - einops
+  - numpy==1.26.4

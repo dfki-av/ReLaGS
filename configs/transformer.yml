@@ -1,0 +1,22 @@
+model:
+  num_attn_layers: 1
+  node_embed_dim: 256
+  edge_embed_dim: 256
+  num_heads: 4
+  ffn_hidden_dim: 512
+  dropout: 0.1
+
+  node_clip_dim: 512
+  node_geo_dim: 19
+  edge_geo_dim: 19
+  node_geo_hidden: 64
+  edge_geo_hidden: 64
+
+training:
+  batch_size: 1
+  num_epochs: 50
+  lr: 1e-3
+  lr_decay_step: 20
+  cls_loss_weight: 1.0
+  edge_loss_weight: 1.0
+
